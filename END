@@ -1,0 +1,30 @@
+[33mcommit 51575c8fd8f6ab52c457a730660af670bea39f8e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mb1[m[33m)[m
+Merge: 8bb6484 f49cf90
+Author: Ben-Weisman <54437197+Ben-Weisman@users.noreply.github.com>
+Date:   Fri Nov 19 16:08:20 2021 +0200
+
+    Merge branch 'master' into b1
+
+[33mcommit f49cf90477f684b513a07e830af895572ede93b7[m
+Author: Ben-Weisman <54437197+Ben-Weisman@users.noreply.github.com>
+Date:   Fri Nov 19 16:06:05 2021 +0200
+
+    commit m-2
+
+[33mcommit 8bb6484be1f5061e5b4c3eaf34d96d0350cec596[m
+Author: Ben-Weisman <54437197+Ben-Weisman@users.noreply.github.com>
+Date:   Fri Nov 19 16:02:48 2021 +0200
+
+    commit b1-2
+
+[33mcommit 07b60392610511e4b7b84db5847c4988b4f11cf2[m
+Author: Ben-Weisman <54437197+Ben-Weisman@users.noreply.github.com>
+Date:   Fri Nov 19 16:01:26 2021 +0200
+
+    commit b1-1
+
+[33mcommit 06562c0093dfa2ee724cb1ec7e542dceae38544c[m
+Author: Ben-Weisman <54437197+Ben-Weisman@users.noreply.github.com>
+Date:   Fri Nov 19 15:57:19 2021 +0200
+
+    commit m-1
