@@ -1,3 +1,4 @@
 file1
 some update
 update made at section 15 "15.	Create file2 ; create file4 ; update file1 and commit (commit b2-1)"
+updata as part of section 24
